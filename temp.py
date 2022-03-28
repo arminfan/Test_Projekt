@@ -10,3 +10,4 @@ def func(a):
 import os
 
 print(os.getcwd())
+print(func(2))
